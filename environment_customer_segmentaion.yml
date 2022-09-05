@@ -1,0 +1,15 @@
+name: customer_segmentation
+channels:
+  - defaults
+dependencies:
+  - numpy=1.21.2
+  - pandas=1.4.1
+  - matplotlib=3.5.1
+  - statsmodels
+  - pydotplus=2.0.2
+  - python=3.9.7
+  - jupyter=1.0.0
+  - pip
+  - seaborn=0.11.1
+  - scikit-learn=1.0.2
+prefix: /home/tatiana/miniconda3/envs/customer_segmentation
